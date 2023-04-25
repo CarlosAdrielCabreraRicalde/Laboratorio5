@@ -1,0 +1,6 @@
+.container{
+    border: solid 2px hsl(31, 100%, 60%);
+    background-color:hsl(31, 100%, 60%);
+    border-radius:20px;
+    width: 30%;
+}
